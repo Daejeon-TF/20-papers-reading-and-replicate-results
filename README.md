@@ -5,4 +5,4 @@
 
 # TEAM MEMBER
 
-[Fuzer](@Fuzer), [jaejun-yoo](@jaejun-yoo), [tgjeon](@tgjeon)
+[Fuzer](https://github.com/FuZer), [jaejun-yoo](https://github.com/jaejun-yoo), [tgjeon](https://github.com/tgjeon)
