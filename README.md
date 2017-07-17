@@ -5,7 +5,7 @@
 
 # TEAM MEMBER
 
-[Fuzer](https://github.com/FuZer), [jaejun-yoo](https://github.com/jaejun-yoo), [tgjeon](https://github.com/tgjeon)
+[Fuzer](https://github.com/FuZer), [jaejun-yoo](https://github.com/jaejun-yoo), [tgjeon](https://github.com/tgjeon), [seanhchoi](https://github.com/seanhchoi), [wsjeon](https://github.com/wsjeon)
 
 # Paper list
 ## 1. DeepDream
