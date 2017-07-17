@@ -9,7 +9,7 @@
 
 # Paper list
 ## 1. DeepDream
-* [Google's Blog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+* [Google's Blog (LET'S READ THIS!)](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+* [Tensorflow tutorial (LET'S TYPE THIS!)](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
 * [Google's implementation (Caffe)](https://github.com/google/deepdream)
 * [DeepDreamGenerator](https://deepdreamgenerator.com)
-* [Tensorflow tutorial](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
