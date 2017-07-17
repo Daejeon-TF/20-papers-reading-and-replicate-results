@@ -6,3 +6,9 @@
 # TEAM MEMBER
 
 [Fuzer](https://github.com/FuZer), [jaejun-yoo](https://github.com/jaejun-yoo), [tgjeon](https://github.com/tgjeon)
+
+# Paper list
+## 1. DeepDream
+* [Google's Blog](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+* [Google's implementation (Caffe)](https://github.com/google/deepdream)
+* [DeepDreamGenerator](https://deepdreamgenerator.com)
