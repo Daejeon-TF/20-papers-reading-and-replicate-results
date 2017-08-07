@@ -11,6 +11,12 @@
 # Paper list
 ## 1. DeepDream
 * [Google's Blog (LET'S READ THIS!)](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
-* [Tensorflow tutorial (LET'S TYPE THIS!)](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
+* [Tensorflow tutorial (LET'S FOLLOW THIS!)](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
 * [Google's implementation (Caffe)](https://github.com/google/deepdream)
 * [DeepDreamGenerator](https://deepdreamgenerator.com)
+## 2. End-to-End Memory Networks
+* [Paper](https://arxiv.org/pdf/1503.08895v4.pdf)
+* [Tutorial Slides](https://www.slideshare.net/carpedm20/ss-63116251)
+* [Tensorflow Code (LET'S FOLLOW THIS!)](https://github.com/carpedm20/MemN2N-tensorflow)
+* [Blog reading (KOR)](http://solarisailab.com/archives/690)
+* [Keras Code (fchollet)](https://github.com/fchollet/keras/blob/master/examples/babi_memnn.py)
