@@ -18,5 +18,6 @@
 * [Paper](https://arxiv.org/pdf/1503.08895v4.pdf)
 * [Tutorial Slides](https://www.slideshare.net/carpedm20/ss-63116251)
 * [Tensorflow Code (LET'S FOLLOW THIS!)](https://github.com/carpedm20/MemN2N-tensorflow)
+* [Tensorflow Code (LET'S FOLLOW THIS!), bAbI](https://github.com/1202kbs/MemN2N-Tensorflow) <- this is better to understand the paper with code
 * [Blog reading (KOR)](http://solarisailab.com/archives/690)
 * [Keras Code (fchollet)](https://github.com/fchollet/keras/blob/master/examples/babi_memnn.py)
