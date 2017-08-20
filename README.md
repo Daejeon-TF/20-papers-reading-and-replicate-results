@@ -25,4 +25,5 @@
 * [Paper](https://arxiv.org/abs/1609.06647)
 * [Slides for Tensorflow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/#1)
 * [Tensorflow Code (LET'S FOLLOW THIS!)](https://github.com/tensorflow/models/tree/master/im2txt)
-* [Queue usage (Korean)](http://bcho.tistory.com/1163)
+* [Queue usage 1 (Korean)](http://bcho.tistory.com/1163)
+* [Queue usage 2 (Korean)](http://bcho.tistory.com/1165)
